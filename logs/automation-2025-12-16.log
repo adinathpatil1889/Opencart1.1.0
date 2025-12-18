@@ -1,0 +1,44 @@
+22:17:19.290 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+22:17:19.304 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adinath.p\AppData\Local\Temp\testng-eclipse--935584105\testng-customsuite.xml
+
+22:17:19.323 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+22:17:19.355 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.8.0
+22:17:19.710 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=143 in cache (valid until 23:10:48 16/12/2025 IST)
+22:17:19.712 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome143=143.0.7499.42 in cache (valid until 22:42:46 16/12/2025 IST)
+22:17:19.712 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.42 (resolved driver for Chrome 143)
+22:17:19.739 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 143.0.7499.42 found in cache
+22:17:19.740 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\adinath.p\.cache\selenium\chromedriver\win64\143.0.7499.42\chromedriver.exe
+22:17:22.418 [main] INFO  testCase.TC001_AccountRegestationTest - *** Stating TC001_AccountRegestationTest ***
+22:17:22.592 [main] INFO  testCase.TC001_AccountRegestationTest - clicked on the my account
+22:17:23.154 [main] INFO  testCase.TC001_AccountRegestationTest - clicked on the Register
+22:17:23.156 [main] DEBUG testCase.TC001_AccountRegestationTest - providing custmers details
+22:17:23.733 [main] INFO  testCase.TC001_AccountRegestationTest - validating expected msg
+22:17:24.789 [main] INFO  testCase.TC001_AccountRegestationTest - ***Your Account Has Been Created***
+22:17:24.789 [main] INFO  testCase.TC001_AccountRegestationTest - *** Finish TC001_AccountRegestationTest ***
+22:17:25.230 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@312b34e3: 82 ms
+22:17:25.234 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@288ca5f0: 1 ms
+22:17:25.243 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1e0895f5: 9 ms
+22:17:25.249 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@4110765e: 6 ms
+22:17:25.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@20cece0b: 8 ms
+22:17:25.258 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4c777e7b: 0 ms
+22:32:23.490 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\adinath.p\eclipse-workspace\Opencart1.1.0\testData\testng.xml"
+22:32:23.796 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\adinath.p\eclipse-workspace\Opencart1.1.0\testData\testng.xml
+
+22:32:23.840 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.8.0
+22:32:24.178 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=143 in cache (valid until 23:10:48 16/12/2025 IST)
+22:32:24.181 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome143=143.0.7499.42 in cache (valid until 22:42:46 16/12/2025 IST)
+22:32:24.182 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.42 (resolved driver for Chrome 143)
+22:32:24.202 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 143.0.7499.42 found in cache
+22:32:24.203 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\adinath.p\.cache\selenium\chromedriver\win64\143.0.7499.42\chromedriver.exe
+22:32:28.123 [main] INFO  testCase.TC002_LoginTest - ***statting login*****
+22:32:30.269 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.8.0
+22:32:30.279 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome=143 in cache (valid until 23:10:48 16/12/2025 IST)
+22:32:30.280 [main] DEBUG io.github.bonigarcia.wdm.cache.ResolutionCache - Resolution chrome143=143.0.7499.42 in cache (valid until 22:42:46 16/12/2025 IST)
+22:32:30.281 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 143.0.7499.42 (resolved driver for Chrome 143)
+22:32:30.289 [main] DEBUG io.github.bonigarcia.wdm.WebDriverManager - Driver chromedriver 143.0.7499.42 found in cache
+22:32:30.289 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\adinath.p\.cache\selenium\chromedriver\win64\143.0.7499.42\chromedriver.exe
+22:32:32.972 [main] INFO  testCase.TC001_AccountRegestationTest - *** Stating TC001_AccountRegestationTest ***
+22:32:33.084 [main] INFO  testCase.TC001_AccountRegestationTest - clicked on the my account
+22:32:33.636 [main] INFO  testCase.TC001_AccountRegestationTest - clicked on the Register
